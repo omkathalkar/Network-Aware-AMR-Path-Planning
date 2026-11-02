@@ -6,8 +6,9 @@
 
 ¹Ericsson Research, India  ²Télécom SudParis, Institut Polytechnique de Paris, France  ³University of Patras, Greece
 
-*IEEE ANTS*
+*IEEE ANTS 2025*
 
+[![Slides](https://img.shields.io/badge/Slides-PDF-orange)](https://gbouloukakis.com/publication/ants-2025/ants-slides-2025.pdf)
 [![Project](https://img.shields.io/badge/Horizon%20Europe-PANDORA-003399)](#acknowledgements)
 [![Simulator](https://img.shields.io/badge/Simulator-NVIDIA%20Sionna-76B900)](https://nvlabs.github.io/sionna/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
@@ -110,6 +111,10 @@ Each penalty is quadratic, for example $\phi_{\text{SNR}}(n) = \max\big(0, \tfra
 | Time-sensitive logistics and changing warehouse layouts | **CVAE**: efficient, with few delay violations |
 | Repeated planning in a fixed layout | **GraphMP**: setup cost is spread over many plans |
 | General deployment | **Hybrid**: a fast first path from CVAE, then refined with A\* for critical missions |
+
+## Slides
+
+The conference presentation slides are available [here (PDF)](https://gbouloukakis.com/publication/ants-2025/ants-slides-2025.pdf).
 
 ## Code
 
